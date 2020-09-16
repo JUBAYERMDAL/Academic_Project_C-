@@ -1,0 +1,9 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\Entity\bin\Debug\Entity.dll
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\Entity\bin\Debug\Entity.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\Entity\obj\Debug\Entity.dll
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\Entity\obj\Debug\Entity.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

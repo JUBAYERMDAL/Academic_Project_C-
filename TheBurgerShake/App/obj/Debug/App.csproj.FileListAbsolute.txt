@@ -1,0 +1,39 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.HomePage.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.LoginForm.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.ManageEmpForm.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.csproj.GenerateResource.Cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\App.exe
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\App.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Repository.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.exe
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\SampleManagementSystem\App\obj\Debug\App.exe
+C:\Users\Tariqul Islam\Desktop\Final\V1\SampleManagementSystem\App\obj\Debug\App.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.exe
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\App.exe
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\App.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\Entity.dll
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\Interfaces.dll
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\Repository.dll
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\Entity.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\Interfaces.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\bin\Debug\Repository.pdb
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.LoginForm.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.DashboardPage.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.ManageEmployeePage.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.ManageProductPage.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.ManageTablePage.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.ManagerDashboardPage.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.PlaceOrderPage.resources
+C:\Users\Tariqul Islam\Desktop\Final\V1\TheBurgerShake\App\obj\Debug\App.ManageOrderPage.resources
